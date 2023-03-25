@@ -10,7 +10,7 @@ The developer [wiki](https://github.com/odk-x/tool-suite-X/wiki) (including rele
 2. Run `ant` in the dependencies folder. 
 3. From the root directory (with the pom.xml) run: `mvn clean package`
 
-A new folder, target, will be created with the resulting jar file. 
+A new folder, target, will be created with the resulting jar file . 
 
 By default, the pom.xml skips the tests.  
 
